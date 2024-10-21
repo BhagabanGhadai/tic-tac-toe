@@ -1,0 +1,19 @@
+.square {
+  border: 2px solid rgb(233, 229, 229);
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.board {
+  padding: 100px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
